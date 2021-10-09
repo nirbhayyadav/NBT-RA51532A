@@ -1,0 +1,13 @@
+##TITLE=Parameter List, ParaVision 6.0.1
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=amnon
+$$ 2021-01-18 22:50:09.150 +0200  amnon@wis15nmrpc
+$$ /opt/PV6.0.1/data/amnon/20210118_091520_210118_phantom_pdc_DMHT_1_1/15/pdata/1/procs
+$$ process /opt/PV6.0.1/prog/bin/parxserver
+##$OFFSET=38.4583233785591
+##$SF=650.054339444703
+##$YMAX_p=31644
+##$YMIN_p=1
+##END=

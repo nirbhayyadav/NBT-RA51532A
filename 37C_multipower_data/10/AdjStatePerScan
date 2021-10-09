@@ -1,0 +1,28 @@
+##TITLE=Parameter List, ParaVision 6.0.1
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=amnon
+$$ 2021-01-18 15:16:18.281 +0200  amnon@wis15nmrpc
+$$ /opt/PV6.0.1/data/amnon/20210118_091520_210118_phantom_pdc_DMHT_1_1/10/AdjStatePerScan
+$$ process /opt/PV6.0.1/prog/mod/pipe
+##$AdjScanStateCompleted=Yes
+##$AdjScanStateAdjName=( 3, 128 )
+<SHIM_Scan> <SHIM_Scan> <RCVR_Standard>
+##$AdjScanStateCategory=( 3 )
+SHIM SHIM RCVR
+##$AdjScanStateTime=( 3 )
+<2021-01-18T15:12:01,350+0200> <2021-01-18T15:16:00,125+0200> 
+<2021-01-18T15:16:00,293+0200>
+##$AdjScanStateExpno=( 3 )
+900001 10 10
+##$AdjScanStateState=( 3 )
+adj_successful adj_successful adj_successful
+##$AdjScanStateResultId=( 3, 65 )
+<2.16.756.5.5.100.8323328.92387.1610975521.42> 
+<2.16.756.5.5.100.8323328.96186.1610975759.45> 
+<2.16.756.5.5.100.8323328.96186.1610975759.46>
+##$AdjScanStateMethod=( 3, 128 )
+<User:adjShimJD> <User:adjShimJD> <User:rare_cest>
+##END=
+$$ File finished by PARX at 2021-01-18 15:16:18.281 +0200
